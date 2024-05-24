@@ -19,10 +19,10 @@ minimal: false             # use a dark header
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
   - text: Blog
-    url: /blog/
+    url: blog.md
+  - text: About
+    url: README.md
   - title: Resume
     url: /pdfs/Resume.pdf
 
