@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 # Menu
 navigation:
   - title: Home
-    url: /Index
+    url: Index
   - title: Blog
     url: /blog
   - title: Resume
@@ -28,7 +28,7 @@ navigation:
   - title: Certifications
     url: /certification
   - title: About
-    url: /README
+    url: README
 
 #navigation:                # accepts {file, title, url, icon, sidebaricon}
 #   - {file: "blog.md", title: "Blog" }
