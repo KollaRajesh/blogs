@@ -23,7 +23,7 @@ navigation:
     url: /about/
   - text: Blog
     url: /blog/
-  - text: Resume
+  - title: Resume
     url: /pdfs/Resume.pdf
 
 
