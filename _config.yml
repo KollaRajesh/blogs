@@ -18,11 +18,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/index.md", title: Home ,icon: home}
-  - {file: "/blog.md", title: Blog }
-  - {file: "/Resume.pdf", title: CV ,icon: 📄 }
-  - {file: "/CoverLetter.pdf", title: Cover Letter ,icon: home}
-  - {file: "README.md",title: About me , icon: address-card}
+  - {file: "/index.md", title: "Home" ,icon: home}
+  - {file: "/blog.md", title: "Blog" }
+  - {file: "/Resume.pdf", title: "CV" ,icon: 📄 }
+  - {file: "/CoverLetter.pdf", title: "Cover Letter" ,icon: home}
+  - {file: "README.md",title: "About me" , icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeshmsb02@gmail.com"}
