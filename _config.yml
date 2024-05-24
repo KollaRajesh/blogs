@@ -27,7 +27,7 @@ navigation:
     url: /pdfs/CoverLetter.pdf
   - title: Certifications
     url: /certification
-  - text: About
+  - title: About
     url: /README
 
 #navigation:                # accepts {file, title, url, icon, sidebaricon}
