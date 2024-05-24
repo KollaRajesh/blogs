@@ -21,10 +21,12 @@ navigation:
     url: /Index
   - title: Blog
     url: /blog
-  - title: Certifications
-    url: /certification
   - title: Resume
     url: /pdfs/Resume.pdf
+  - title: Cover Letter
+    url: /pdfs/CoverLetter.pdf
+  - title: Certifications
+    url: /certification
   - text: About
     url: /README
 
