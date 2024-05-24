@@ -17,15 +17,14 @@ minimal: false             # use a dark header
 
 # Menu
 navigation:
-  - text: Home
+  - title: Home
     url: /
-  - text: Blog
-    url: blog.md
-  - text: About
-    url: README.md
+  - title: Blog
+    url: /blog.md
   - title: Resume
     url: /pdfs/Resume.pdf
-
+  - text: About
+    url: /README.md
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeshmsb02@gmail.com"}
