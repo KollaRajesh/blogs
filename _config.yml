@@ -20,7 +20,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog" }
   - {file: "Resume.pdf", title: "CV" }
-  - {file: "CoverLetter.pdf", title: "Cover Letter" }
+    - {file: "CoverLetter.pdf", title: "Cover Letter" }
   - {file: "README.md",title: "About me" , icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
